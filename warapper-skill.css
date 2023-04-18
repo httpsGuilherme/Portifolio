@@ -1,0 +1,21 @@
+.warapper-skill {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.warapper-skill .skill-tec {
+    width: 430px;
+    margin-bottom: 38px;
+
+}
+
+.warapper-skill .skill-tec:nth-child(odd) {
+    margin-right: 100px;
+}
+
+.warapper-skill .progress-bar {
+    width: 320px;
+}
