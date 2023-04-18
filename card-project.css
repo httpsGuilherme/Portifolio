@@ -1,0 +1,7 @@
+.card-project {
+    display: flex;
+    justify-content: center;
+    height: 280px;
+    width: 280px;
+    padding-right: 40px;
+}
